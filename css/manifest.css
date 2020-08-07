@@ -4622,3 +4622,13 @@ a.text-white:hover, a.text-white:focus {
 
 body {
   background-color: #E5E5E5; }
+
+body {
+  background: #E5E5E5; }
+
+.marg {
+  margin: 0; }
+
+.pad {
+  padding-top: 60px;
+  padding-left: 140px; }
